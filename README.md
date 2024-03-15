@@ -5,7 +5,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 ## Alunos integrantes da equipe
 
 * Geovane de Freitras Queiroz Morcatti 
-* Nome completo do aluno 2
+* Marcos Henrique Dias Barbosa
 
 ## Professores responsáveis
 

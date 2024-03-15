@@ -1,7 +1,7 @@
 # Título do trabalho
 
-1. Nome do aluno 1
-1. Nome do aluno 2 (se houver)
+* Geovane de Freitras Queiroz Morcatti 
+* Marcos Henrique Dias Barbosa
 
 * Nome do orientador de conteúdo
 * Nome do orientador acadêmico
